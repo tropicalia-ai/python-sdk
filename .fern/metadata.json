@@ -1,0 +1,9 @@
+{
+  "cliVersion": "3.47.0",
+  "generatorName": "fernapi/fern-python-sdk",
+  "generatorVersion": "4.48.1",
+  "generatorConfig": {
+    "client_class_name": "tropicalia"
+  },
+  "sdkVersion": "0.1.0"
+}
